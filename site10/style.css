@@ -1,0 +1,52 @@
+li{
+    text-decoration: none;
+    
+   
+}
+
+a{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+main{
+    background-color:white
+}
+
+#example1{
+    background-color: black;
+}
+
+p3{
+    color: white;
+   font-weight:bolder;
+   
+}
+
+aslik{
+    color: white;
+
+}
+
+kutu{
+    background-color: whitesmoke  ;
+}
+
+
+#kutu2{
+    background-color: whitesmoke;
+}
+
+#marka{
+    background-color: rgba(128, 126, 126, 0.211);
+}
+
+li{
+    list-style-type: circle;
+    
+}
+
+
